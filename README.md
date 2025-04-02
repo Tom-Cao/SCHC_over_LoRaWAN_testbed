@@ -1,1 +1,1 @@
-# SCHC over LoRaWAN (RFC9011) testbed
+# SCHC over LoRaWAN (SoL) testbed
