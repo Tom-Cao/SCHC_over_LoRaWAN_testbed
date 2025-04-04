@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'WiNet SCHC over LoRaWAN Testbed Docs',
-  tagline: 'SoL testbed',
+  title: 'My Site',
+  tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -17,8 +17,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Tom-Cao', // Usually your GitHub org/user name.
-  projectName: 'SCHC_over_LoRaWAN_testbed', // Usually your repo name.
+  organizationName: 'facebook', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -68,9 +68,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'WiNet SCHC over LoRaWAN testbed',
+      title: 'My Site',
       logo: {
-        alt: 'WiNet Logo',
+        alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
       items: [
